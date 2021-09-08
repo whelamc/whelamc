@@ -1,4 +1,4 @@
-## whelam here 👋
+## Whelam here 👋
 
 ### 🧐  About Me
 
