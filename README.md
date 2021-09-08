@@ -11,6 +11,3 @@
 
 ![whelam's github stats](https://github-readme-stats.vercel.app/api/?username=whelamc&show_icons=true&hide_title=true&theme=tokyonight)
 
-### 🦋 Weekly DevTime
-
-![whelam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=whelamc&layout=compact&theme=tokyonight)
