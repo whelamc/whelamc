@@ -12,7 +12,7 @@
 ```javascript
 const whelam = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Python],
+  code: [Javascript, Typescript, Html, Css, Php, Python],
   tools: [React, Vue, Svelte, Tailwind, Prisma, Wxml, Node, Docker],
   machines: ["E5-2666V3", "MacBook-Air-M1", "iPhone12", "Galaxy-S22"],
   language: ["Cantonese", "Mandarin", "English", "Japanese"],
